@@ -13,7 +13,7 @@ Ibtisam Beyk
 * Limitations
 * Presentation
 
-## Project description
+## Project description:
 
 In this project we are investigating the Employment rates in the high tech (HTEC) sector accross the member states of European Union and associated countries (https://ec.europa.eu/research/horizon2020/index.cfm?pg=country-profiles). The data analyzed cover the period from 2010 to 2019 and are published on yearly basis by the European Commission (https://ec.europa.eu/info/index_en). 
 
